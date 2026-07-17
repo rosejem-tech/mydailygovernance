@@ -1,0 +1,17 @@
+{
+  "name": "daily-governance-journal",
+  "version": "1.0.0",
+  "description": "Daily Governance Journal PWA for Mobile and Desktop",
+  "main": "start-server.js",
+  "scripts": {
+    "start": "node start-server.js",
+    "dev": "node start-server.js"
+  },
+  "keywords": [
+    "pwa",
+    "journal",
+    "governance"
+  ],
+  "author": "Rose Jemelyn Tayao",
+  "license": "ISC"
+}
